@@ -1,0 +1,12 @@
+catboost
+cycler
+ipython
+jupyterlab
+matplotlib
+nbformat
+numpy
+openpyxl
+pandas
+scikit-learn
+scipy
+statsmodels
