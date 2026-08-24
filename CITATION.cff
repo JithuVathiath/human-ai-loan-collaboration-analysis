@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Human-AI Loan Collaboration Analysis"
+authors:
+  - family-names: "Biju"
+    given-names: "Jithu Vathiath"
+version: 1.0.0
+date-released: 2026-08-24
+repository-code: "https://github.com/JithuVathiath/human-ai-loan-collaboration-analysis"
+license: MIT
