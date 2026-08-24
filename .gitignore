@@ -1,0 +1,22 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Restricted or participant-level research data
+data/* 
+!data/README.md
+restricted_data/
+01_Base_Data/
+05_Qualitative_Analysis/
+*_timeline_clean*.txt
+public_approved_quotations.csv
+
+# Generated analysis artefacts
+human_ai_loan_analysis_outputs/
+human_ai_loan_distinction_outputs/
+*_outputs/
+*.html
+*.log
+
