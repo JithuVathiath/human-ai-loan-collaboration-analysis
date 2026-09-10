@@ -1,12 +1,3 @@
-catboost
-cycler
-ipython
-jupyterlab
-matplotlib
-nbformat
-numpy
-openpyxl
-pandas
-scikit-learn
-scipy
-statsmodels
+# Compatibility entry point for the complete research environment.
+# Project and version metadata live in pyproject.toml.
+-e .[research]
