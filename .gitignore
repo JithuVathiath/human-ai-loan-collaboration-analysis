@@ -3,6 +3,12 @@
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+build/
+dist/
 
 # Restricted or participant-level research data
 data/* 
@@ -19,4 +25,3 @@ human_ai_loan_distinction_outputs/
 *_outputs/
 *.html
 *.log
-
